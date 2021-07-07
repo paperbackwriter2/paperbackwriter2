@@ -1,5 +1,4 @@
 ### Welcome to my page!
-My name is Laurel, and I'm an enthusiastic learner and a student with Reskill Americans!
 <!--
 **paperbackwriter2/paperbackwriter2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
